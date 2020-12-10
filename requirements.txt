@@ -1,0 +1,3 @@
+azure-mgmt-datafactory>=0.13.0
+airflow-provider-great-expectations
+great-expectations @ git+https://github.com/great-expectations/great_expectations.git@develop
